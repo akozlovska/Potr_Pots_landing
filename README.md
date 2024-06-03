@@ -6,8 +6,6 @@
   <h2>Welcome to POTR POTS Landing Page</h2>
 </div>
 
----
-
 ## General Description
 
 <p align="justify">
